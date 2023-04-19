@@ -1,0 +1,14 @@
+.mainContainer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stepOne {
+  background-color: #c6ddf0;
+}
+
+.stepTwo {
+  background-color: #ffa5ab;
+}

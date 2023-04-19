@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #2d3047;
+  font-family: "Chivo Mono", monospace;
+}

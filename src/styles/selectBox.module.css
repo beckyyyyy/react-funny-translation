@@ -1,0 +1,9 @@
+.selectContainer {
+  width: 60%;
+}
+
+.selectBox {
+  padding: 10px;
+  width: 100%;
+  font-size: 16px;
+}

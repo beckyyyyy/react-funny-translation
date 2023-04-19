@@ -1,0 +1,40 @@
+.cardContainer {
+  width: 50%;
+  min-width: 300px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 2px 2px 30px gainsboro;
+  animation: fadeInCard 1s;
+}
+
+.translateBtn {
+  padding: 10px 20px;
+  background-color: #c6ddf0;
+  border: 0;
+  border-radius: 8px;
+  font-size: 20px;
+  box-shadow: 0 0 5px gainsboro;
+  cursor: pointer;
+}
+
+.translateBtn:hover {
+  color: #fff;
+}
+
+.translateBtn:disabled {
+  cursor: not-allowed;
+}
+
+@keyframes fadeInCard {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

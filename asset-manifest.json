@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-funny-translation/static/css/main.9d196552.css",
-    "main.js": "/react-funny-translation/static/js/main.0082dd34.js",
+    "main.js": "/react-funny-translation/static/js/main.dacf11a6.js",
     "static/js/787.7fc19d00.chunk.js": "/react-funny-translation/static/js/787.7fc19d00.chunk.js",
     "static/media/ferb-latin.png": "/react-funny-translation/static/media/ferb-latin.f19de748da6ed9b254a4.png",
     "static/media/screenshot-2.png": "/react-funny-translation/static/media/screenshot-2.6457db53f859d2e37edb.png",
@@ -18,11 +18,11 @@
     "static/media/vulcan.png": "/react-funny-translation/static/media/vulcan.e0d4d8cdede4ec658f48.png",
     "index.html": "/react-funny-translation/index.html",
     "main.9d196552.css.map": "/react-funny-translation/static/css/main.9d196552.css.map",
-    "main.0082dd34.js.map": "/react-funny-translation/static/js/main.0082dd34.js.map",
+    "main.dacf11a6.js.map": "/react-funny-translation/static/js/main.dacf11a6.js.map",
     "787.7fc19d00.chunk.js.map": "/react-funny-translation/static/js/787.7fc19d00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d196552.css",
-    "static/js/main.0082dd34.js"
+    "static/js/main.dacf11a6.js"
   ]
 }

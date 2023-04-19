@@ -27,8 +27,8 @@ export const ResultCard = () => {
     }
   }
 
-  const handleCopyClick = () => {
-    navigator.clipboard.writeText(translatedText)
+  const handleCopyClick = async () => {
+    await navigator.clipboard.writeText(translatedText)
     alert("copy success!")
   }
 

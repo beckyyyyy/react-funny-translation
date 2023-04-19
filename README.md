@@ -22,16 +22,16 @@
 ### Screenshot
 
 Desktop 💻  
-<img src="src/images/screenshot-1" width="60%">
-<img src="src/images/screenshot-2" width="60%">
+<img src="src/images/screenshot-1.png" width="60%">
+<img src="src/images/screenshot-2.png" width="60%">
 
 Mobile 📱  
-<img src="src/images/screenshot-3" width="30%">
-<img src="src/images/screenshot-4" width="30%">
+<img src="src/images/screenshot-3.png" width="30%">
+<img src="src/images/screenshot-4.png" width="30%">
 
 ### Links
 
-- Live Site URL: [Click me !]()
+- Live Site URL: [Click me !](https://beckyyyyy.github.io/react-funny-translation/)
 
 ## My process
 

@@ -2,7 +2,7 @@ import axios from "axios"
 
 const transURL = "https://api.funtranslations.com/translate"
 const voiceURL =
-  "http://api.voicerss.org/?key=97af9550af7b4d008c0db47006f9b67c&hl=en-us&c=MP3&src="
+  "https://api.voicerss.org/?key=97af9550af7b4d008c0db47006f9b67c&hl=en-us&c=MP3&src="
 
 export const translationApi = async (payload) => {
   const { language, text } = payload

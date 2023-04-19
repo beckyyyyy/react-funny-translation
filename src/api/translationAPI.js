@@ -23,7 +23,6 @@ export const translationApi = async (payload) => {
 
 export const voiceAPI = async (text) => {
   const url = `${voiceURL}${text}`
-  console.log(text)
   try {
     const res = await axios.get(url, {
       responseType: "arraybuffer",

@@ -69,6 +69,10 @@
   color: #ffa5ab;
 }
 
+.none {
+  display: none;
+}
+
 @keyframes transformToResult {
   from {
     width: 50%;

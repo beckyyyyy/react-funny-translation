@@ -46,7 +46,7 @@ export const ResultCard = () => {
           <div className={styles.toolBox}>
             <audio src={audioUrl}>123</audio>
             <Btn text="play" onClick={handlePlayAudio} />
-            <audio src={audioUrl} autoPlay />
+            <audio src={audioUrl} autoPlay controls className={styles.none} />
             <Btn text="copy" onClick={handleCopyClick} />
           </div>
         </div>

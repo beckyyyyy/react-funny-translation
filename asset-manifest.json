@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-funny-translation/static/css/main.9d196552.css",
+    "main.js": "/react-funny-translation/static/js/main.0b4bf0ed.js",
+    "static/js/787.7fc19d00.chunk.js": "/react-funny-translation/static/js/787.7fc19d00.chunk.js",
+    "static/media/ferb-latin.png": "/react-funny-translation/static/media/ferb-latin.f19de748da6ed9b254a4.png",
+    "static/media/screenshot-2.png": "/react-funny-translation/static/media/screenshot-2.6457db53f859d2e37edb.png",
+    "static/media/screenshot-1.png": "/react-funny-translation/static/media/screenshot-1.53a48765934ce0aab315.png",
+    "static/media/screenshot-4.png": "/react-funny-translation/static/media/screenshot-4.f57a2dbe2639d83f0ff1.png",
+    "static/media/screenshot-3.png": "/react-funny-translation/static/media/screenshot-3.9f21e801965de2beede1.png",
+    "static/media/minion.png": "/react-funny-translation/static/media/minion.6060702811edeffc6ec4.png",
+    "static/media/yoda.png": "/react-funny-translation/static/media/yoda.9f796650dadbc4679aa3.png",
+    "static/media/valyrian.png": "/react-funny-translation/static/media/valyrian.fcc9a24f256c6a1bd86e.png",
+    "static/media/dolan.png": "/react-funny-translation/static/media/dolan.9df0ff0b6b20d67c6e85.png",
+    "static/media/chatbox.png": "/react-funny-translation/static/media/chatbox.c3f9e343b70ffaf4fb5d.png",
+    "static/media/sith.png": "/react-funny-translation/static/media/sith.cdf83c2e1cb6d5bb1e11.png",
+    "static/media/translating.png": "/react-funny-translation/static/media/translating.c96ceab62596308dd5f7.png",
+    "static/media/vulcan.png": "/react-funny-translation/static/media/vulcan.e0d4d8cdede4ec658f48.png",
+    "index.html": "/react-funny-translation/index.html",
+    "main.9d196552.css.map": "/react-funny-translation/static/css/main.9d196552.css.map",
+    "main.0b4bf0ed.js.map": "/react-funny-translation/static/js/main.0b4bf0ed.js.map",
+    "787.7fc19d00.chunk.js.map": "/react-funny-translation/static/js/787.7fc19d00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d196552.css",
+    "static/js/main.0b4bf0ed.js"
+  ]
+}
